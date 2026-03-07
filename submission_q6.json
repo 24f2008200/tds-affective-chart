@@ -2,6 +2,6 @@
   "prompt": "A humorous cinematic photograph of a man sitting at a restaurant table after an enormous meal. He is wearing a perfectly tailored suit that clearly fit him immaculately before dinner — but now, with his belly full, the suit is catastrophically tight. Buttons strain at their threads, the jacket pulls dramatically across his shoulders, the waistband visibly digs in, one button has already popped off and landed in the soup bowl. His expression is cheerful and oblivious. The table is covered with empty plates, wine glasses, and dessert remnants. Warm restaurant lighting, white tablecloth. Shot like a candid magazine photograph. Physically real scene, no text, no labels, no diagrams, no floating elements. Photorealistic.",
   "model": "DALL-E 3 via ChatGPT",
   "concept": "overfitting",
-  "metaphor": "A suit tailored to fit one exact moment — before dinner — fails completely on new data: the same man after eating. Perfect fit on training data, catastrophic failure on anything new.",
+  "metaphor": "A suit perfectly fitted before dinner bursts at the seams after — trained on one moment, it fails completely when the data changes.",
   "publish_email": true
 }
