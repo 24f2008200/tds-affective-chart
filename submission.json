@@ -1,0 +1,8 @@
+{
+  "prompt": "A single cinematic image showing a vast crowd of 47 human silhouettes standing in an arid, cracked-earth landscape under a burning amber sky. Each figure glows from within with increasing intensity of orange-red heat, the most recent figures nearly white-hot. The oldest figures at the far left are dim and cool blue-grey. No text, no axes, no labels, no charts. The ground beneath the figures is scorched and fractured. The emotional register is grief and inevitability. Shot as if from a low wide-angle perspective, dust haze in the air. Photorealistic. 16:9 aspect ratio. Minimum 1792x1024 resolution. Negative: bar chart, line graph, pie chart, infographic, legend, axis, numbers, text, labels, thermometer, globe, iceberg",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "NASA GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Every year since 1977 has been warmer than the 20th-century average — 47 consecutive years of above-normal global temperatures.",
+  "publish_email": true
+}
