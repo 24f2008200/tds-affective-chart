@@ -1,0 +1,8 @@
+{
+  "prompt": "Programmatically generated using Python (matplotlib 3.10 + numpy 2.4 + scipy 1.17). Loss function: L(x,y) = 0.22x² + 0.38y² − 1.35·exp(−((x+2)²/0.55 + (y−1.4)²/0.40)) − 0.18·exp(−((x−0.5)²/1.8 + (y+2.2)²/0.35)) + 0.025·cos(2.8x)·cos(1.9y) + 1.55. Three gradient descent paths (η = 0.26, 0.22, 0.20; normalized gradient steps). Fig. I: 22-level filled contour with 7-band alternating hatch overlay (alpha 0.03), 18 minor + 6 major contour lines, sparse quiver field. Fig. II: cross-sections at θ₂ = 0, ±1. Fig. III: loss-vs-iteration curves. Custom colormap: darkest sepia #0D0705 → parchment #F0E6CC (22 steps, N=512). Parchment background #F0E6CC. Double-rule plate border with corner diamonds. All text italic DejaVu Serif. Latin nomenclature throughout. Three-path colour scheme: prussian blue #1C3D5A, sage #3D5230, dark rose #7A2020. 1800 × 2400 px at 150 dpi.",
+  "model": "Python matplotlib 3.10 + numpy 2.4 + scipy 1.17 (programmatic scientific illustration — no diffusion model)",
+  "concept": "Gradient Descent",
+  "tradition_name": "Ernst Haeckel's Kunstformen der Natur scientific illustration",
+  "tradition_period": "1899–1904",
+  "tradition_approach": "Parchment-ground chromolithographic contour field with cross-hatched engraving between slope bands; multi-subfigure format (Fig. I–III) with italic serif Latin nomenclature; double-rule plate border; prussian blue, sepia, and rose specimen-colour palette."
+}

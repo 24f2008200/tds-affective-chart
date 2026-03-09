@@ -1,0 +1,6 @@
+{
+  "prompt": "Python/PIL generative art. Deep space background (#070610 to #12111e radial). 58 nodes, 72 edges. One small focal node (r=16, lavender-white, soft purple glow) at canvas center with 5 connections, rendered last on top. Five hub nodes (r=18-22, each a distinct color: blue #60a5fa, teal #34d399, orange #fb923c, violet #a78bfa, pink #f9a8d4) placed at distance 480-520px from center, each with 14-17 connections radiating to peripheral dot-nodes. Peripheral nodes small (r=7-12, mint green). Edges: focal-to-hub in violet dashed glow; hub-to-periph in hub color at low opacity. Three render passes (blurred glow, mid, sharp) for depth. Concentric orbital rings around hubs scaled to connection count. Vignette fade to black at edges. Grain texture layer at 4% opacity. No text, no numbers.",
+  "model": "Custom Python/PIL generative code (Claude Sonnet 4.6, March 2026)",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "One small dim node connects to five large glowing hubs; each hub blazes with far more connections than the focal node has. You are central, yet every neighbor towers above you in reach — structurally inevitable, not personal."
+}
